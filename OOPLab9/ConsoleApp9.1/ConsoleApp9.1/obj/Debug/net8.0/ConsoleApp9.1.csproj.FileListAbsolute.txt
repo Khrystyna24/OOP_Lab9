@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Education\OOP\OOPLab9\ConsoleApp9.1\ConsoleApp9.1\bin\Debug\net8.0\ConsoleApp9.1.exe
+C:\Users\Admin\Desktop\Education\OOP\OOPLab9\ConsoleApp9.1\ConsoleApp9.1\bin\Debug\net8.0\ConsoleApp9.1.deps.json
+C:\Users\Admin\Desktop\Education\OOP\OOPLab9\ConsoleApp9.1\ConsoleApp9.1\bin\Debug\net8.0\ConsoleApp9.1.runtimeconfig.json
+C:\Users\Admin\Desktop\Education\OOP\OOPLab9\ConsoleApp9.1\ConsoleApp9.1\bin\Debug\net8.0\ConsoleApp9.1.dll
+C:\Users\Admin\Desktop\Education\OOP\OOPLab9\ConsoleApp9.1\ConsoleApp9.1\bin\Debug\net8.0\ConsoleApp9.1.pdb
+C:\Users\Admin\Desktop\Education\OOP\OOPLab9\ConsoleApp9.1\ConsoleApp9.1\obj\Debug\net8.0\ConsoleApp9.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Education\OOP\OOPLab9\ConsoleApp9.1\ConsoleApp9.1\obj\Debug\net8.0\ConsoleApp9.1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Education\OOP\OOPLab9\ConsoleApp9.1\ConsoleApp9.1\obj\Debug\net8.0\ConsoleApp9.1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Education\OOP\OOPLab9\ConsoleApp9.1\ConsoleApp9.1\obj\Debug\net8.0\ConsoleApp9.1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Education\OOP\OOPLab9\ConsoleApp9.1\ConsoleApp9.1\obj\Debug\net8.0\ConsoleApp9.1.dll
+C:\Users\Admin\Desktop\Education\OOP\OOPLab9\ConsoleApp9.1\ConsoleApp9.1\obj\Debug\net8.0\refint\ConsoleApp9.1.dll
+C:\Users\Admin\Desktop\Education\OOP\OOPLab9\ConsoleApp9.1\ConsoleApp9.1\obj\Debug\net8.0\ConsoleApp9.1.pdb
+C:\Users\Admin\Desktop\Education\OOP\OOPLab9\ConsoleApp9.1\ConsoleApp9.1\obj\Debug\net8.0\ConsoleApp9.1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Education\OOP\OOPLab9\ConsoleApp9.1\ConsoleApp9.1\obj\Debug\net8.0\ref\ConsoleApp9.1.dll
